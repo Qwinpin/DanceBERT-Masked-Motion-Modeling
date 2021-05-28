@@ -22,13 +22,8 @@ After MMM pre-training we fine-tune model to recover long sequence of missing mo
 
 ### Provide each 15 frame on input and recover others (origin on the left):
 
-<video src="images/30.mp4"></video>
-
-
+https://user-images.githubusercontent.com/31972765/119990634-3ac52200-bfd1-11eb-83c3-a8db9d55f927.mp4
 
 ### Provide each 30 frame on input and recover others:
 
-<video src="images/15.mp4"></video>
-
-
-
+https://user-images.githubusercontent.com/31972765/119990453-03ef0c00-bfd1-11eb-9d81-e89796f56c4c.mp4
