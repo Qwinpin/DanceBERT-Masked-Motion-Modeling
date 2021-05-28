@@ -22,7 +22,7 @@ After MMM pre-training we fine-tune model to recover long sequence of missing mo
 
 ### Provide each 15 frame on input and recover others (origin on the left):
 
-<video src="/home/gito/github/MotionBERT: Masked Motion Modeling/images/30.mp4"></video>
+<video src="images/30.mp4"></video>
 
 
 
