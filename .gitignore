@@ -1,0 +1,12 @@
+
+data/motions/
+
+data/music/
+
+data/splits/
+
+tmp/
+
+data/processed/
+
+\.ipynb_checkpoints/
