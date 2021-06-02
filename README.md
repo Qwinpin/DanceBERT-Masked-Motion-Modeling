@@ -119,7 +119,9 @@ TODO
 
 We fed into model each 15 frame (intermediate ones are zeroed out).
 
-<video src="/home/gito/Videos/Peek 2021-06-01 14-54.mp4"></video>
+https://user-images.githubusercontent.com/31972765/120485737-11cfd300-c3bd-11eb-92fa-b0625db7f246.mp4
+
+
 
 # Results: future motion generation fine-tuning
 
@@ -129,4 +131,5 @@ We provide first 120 frames of real motion and them perform auto-regressive gene
 
 First 2 second of this video is the real dance. Results are not impressive yet.
 
-<video src="/tmp/0001-0750.mp4"></video>
+https://user-images.githubusercontent.com/31972765/120485786-1ac0a480-c3bd-11eb-9cae-bf1aebcd4111.mp4
+
